@@ -4,28 +4,28 @@ export const GAMES: GameInfo[] = [
   {
     id: 'free-fire',
     name: 'Free Fire',
-    image: '/public/freefire.jpg',
+    image: '/freefire.jpg',
     maxTeamSize: 4,
     isTeamGame: true
   },
   {
     id: 'bgmi',
     name: 'BGMI',
-    image: '/public/bgmi.jpg',
+    image: '/bgmi.jpg',
     maxTeamSize: 4,
     isTeamGame: true
   },
   {
     id: 'valorant',
     name: 'Valorant',
-    image: '/public/valorant.jpg',
+    image: '/valorant.jpg',
     maxTeamSize: 5,
     isTeamGame: true
   },
   {
     id: 'call-of-duty',
     name: 'Call of Duty',
-    image: '/public/cod.jpg',
+    image: '/cod.jpg',
     maxTeamSize: 4,
     isTeamGame: true
   }
